@@ -3,6 +3,10 @@
 ## Привет, меня зовут Валерия 👋
 
 </div>
+Я аналитик данных с экономическим образованием.
+Мои проекты: 
+
+
 <!--
 **ValeriaBogomolova/ValeriaBogomolova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
