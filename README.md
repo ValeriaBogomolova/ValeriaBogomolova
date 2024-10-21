@@ -1,5 +1,8 @@
-##                                                    Привет, меня зовут Валерия 👋
+<div align="center">
 
+## Привет, меня зовут Валерия 👋
+
+</div>
 <!--
 **ValeriaBogomolova/ValeriaBogomolova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
